@@ -7,6 +7,8 @@
 # Apache2
 #
 
+package "locales"
+
 link "/etc/localtime" do
   to "/usr/share/zoneinfo/#{node[:locales][:server_time_zone]}"
 end
