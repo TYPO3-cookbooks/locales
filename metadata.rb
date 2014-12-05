@@ -1,3 +1,4 @@
+name             "locales"
 maintainer       "Steffen Gebert"
 maintainer_email "steffen.gebert@typo3.org"
 license          "Apache2"
